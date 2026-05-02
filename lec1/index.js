@@ -23,13 +23,13 @@
 // // console.log(Person)
 // Person.greet()
 
-const Car = {
-    brand: "LX-570",
-    Model: 2020,
-    greet: function() {
-        console.log("you Car name " ,  this.brand , "and the model is " , this.Model)
-    }
-}
+// const Car = {
+//     brand: "LX-570",
+//     Model: 2020,
+//     greet: function() {
+//         console.log("you Car name " ,  this.brand , "and the model is " , this.Model)
+//     }
+// }
 
-// console.log(Car)
-Car.greet()
+// // console.log(Car)
+// Car.greet()

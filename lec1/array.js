@@ -1,0 +1,17 @@
+
+
+const fruits = ["apple" , "banana" , "kiwi" , "graps"]
+
+// console.log(fruits)
+// console.log(fruits.map(fruit => "fruits name is " + fruit))
+console.log(fruits.map(fruit => "fruit name is " + fruit))
+
+// for (let x in fruits) {
+//     console.log(x)
+// }
+
+// for (let i of fruits) {
+//     console.log(i)
+// }
+
+
