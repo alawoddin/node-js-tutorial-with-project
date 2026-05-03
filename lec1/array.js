@@ -16,11 +16,21 @@
 
 const name = ["nodejs" , "js" , "nextjs" , "laravel"]
 
+name.push("mysql")
+
+// const copy = name.slice()
+
+const copy = [name]
+
+console.log(copy)
+
+console.log(name)
+
 // for (let i of name) {
 //     console.log(i)
 // }
 
-console.log(name.map(x => "my name is " + x))
+// console.log(name.map(x => "my name is " + x))
 
 // console.log(name)
 
