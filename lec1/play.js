@@ -12,18 +12,18 @@ const details = (username , userage , userjob) =>  {
     )
 }
 
-const add = (a , b) => {
-    return a + b
-}
+// const add = (a , b) => {
+//     return a + b
+// }
 
-console.log(add(2,3))
+// console.log(add(2,3))
 
-const add = (a,b) => a + b;
-console.log(add(3,3))
+// const add = (a,b) => a + b;
+// console.log(add(3,3))
 
 
-// console.log(details(name , age , hobbies)
-console.log(details("alawoddin" , 25 , "developer"))
+// // console.log(details(name , age , hobbies)
+// console.log(details("alawoddin" , 25 , "developer"))
 
 
 
